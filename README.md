@@ -52,4 +52,4 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ## Contato
 
-Para dúvidas, sugestões ou mais informações, entre em contato através de [email@example.com](mailto:email@example.com).
+Para dúvidas, sugestões ou mais informações, entre em contato através de [valves941@gmail.com](mailto:valves941@gmail.com).
