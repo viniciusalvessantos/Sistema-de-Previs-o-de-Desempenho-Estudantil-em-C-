@@ -22,7 +22,7 @@
 1. **Clone o Repositório:**
    ```bash
    git clone https://github.com/seu-usuario/predictive-learning.git
- ```
+   ```
 ## Uso
 
 ### Como Funciona
